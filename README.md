@@ -1,2 +1,3 @@
 # project-ideas
 Haikus from the students - sent as a POST request, stored in DB, Displayed
+Lineword game: https://dictionaryapi.dev/ + http://www.datamuse.com/api/ for hints
